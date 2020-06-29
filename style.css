@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.box_img{
+    margin:0;
+    height:150px;
+    width:100px;
+    float:right;
+    padding:0;
+    padding-right: 5%;;
+}
+
+
+
+.basic_info{
+    margin-left: 10%;
+    padding left:10%;
+    padding top:10px;
+
+}
+
