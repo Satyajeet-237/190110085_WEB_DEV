@@ -1,6 +1,5 @@
 /* PLease note that i am still adding more and more stuff while my present file contains use of font styling,margin,padding,border,flexbox,
 Shadows,grid and also the top navigation bar. So have used 7 of the 12 required tools all in navbar itself */
-/*Additionally will add more feature i.e. all 12/12 eventually     */
 
 
 *{
@@ -47,7 +46,7 @@ margin:0px 10%;
     background-image: url(images/bg1.jpg);
     background-size: cover;
 }
-
+/*
 #p2{
     background-image: url(images/bg2.jpg);
     background-size: cover;
@@ -62,6 +61,7 @@ margin:0px 10%;
     background-image: url(images/bg4.jpg);
     background-size: cover;
 }
+*/
 
 .flex-container a{
     text-decoration: none;
